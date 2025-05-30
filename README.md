@@ -14,8 +14,8 @@
 - 🌱 Exploring **Computer Vision** applications on edge devices using **SoC architectures**
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and how they intersect with **hardware acceleration** and **real-time embedded inference**
 - 🧠 I thrive at the intersection of **hardware/software co-design** and **AI model deployment on resource-constrained systems**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile) or [Email](mailto:your.email@example.com)
-- 🌐 [My Portfolio](https://yourportfolio.com)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/marwanabdelfattah) or [Email](mailto:marwanabdelfattah25@gmail.com)
+- 🌐 [My Portfolio](https://marwanabdelfattah.com)
 
 ---
 
@@ -23,22 +23,21 @@
 
 <p align="left">
   <!-- Languages -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/VHDL_logo.png" width="40" alt="VHDL"/>
-
+  
   <!-- Hardware / EDA Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Intel_Quartus_Prime_Icon.png" width="40" alt="Quartus"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xilinx_logo.svg" width="60" alt="Xilinx Vivado"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ModelSim_Logo.png" width="60" alt="ModelSim"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Raspberry_Pi_Logo.svg" width="40" alt="Raspberry Pi"/>
 
   <!-- ML/Embedded -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  
 </p>
 
 ---
@@ -75,6 +74,6 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/></a>
+  <a href="https://linkedin.com/in/marwanabdelfattah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
+  <a href="mailto:marwanabdelfattah25@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/></a>
 </p>
