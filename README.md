@@ -23,15 +23,9 @@
 
 <p align="left">
   <!-- Languages -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  
-  <!-- Hardware / EDA Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Intel_Quartus_Prime_Icon.png" width="40" alt="Quartus"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3f/Xilinx_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.electronicdesign.com%2Fcompanies%2Fcompany%2F21144630%2Fxilinx&psig=AOvVaw3V0k4BLjZSXob0DbZGk4wA&ust=1748653238849000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLi7u4v_yY0DFQAAAAAdAAAAABAE)" width="60" alt="Xilinx Vivado"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ModelSim_Logo.png" width="60" alt="ModelSim"/>
 
   <!-- ML/Embedded -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
