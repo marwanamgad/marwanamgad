@@ -27,8 +27,7 @@
   
 
 <p align="left">
-
-   <img src="[https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator](https://github.com/MagdyMGZ/MagdyMGZ/raw/main/QuestaSim.png)/" width="35" />
+  <img src="/MagdyMGZ/MagdyMGZ/raw/main/QuestaSim.png" alt="questasim" width="40" height="40" style="max-width: 100%; height: auto; max-height: 35px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
