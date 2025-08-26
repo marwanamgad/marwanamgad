@@ -27,6 +27,10 @@
   
 
 <p align="left">
+  <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" width="35" />
+ 
+  <img src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png" width="35" />
+
   <img src="https://usoftly.ir/wp-content/uploads/2022/02/Mentor-Graphics-QuestaSim-2021.1-Win.png" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
