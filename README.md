@@ -1,6 +1,6 @@
 <!-- README.md -->
 <h1 align="center">Hi 👋, I'm Marwan Amgad</h1>
-<h3 align="center">Software Development👨🏻‍💻|🔬 ML on SoC | 🛠️ Hardware Design | 🧠 Embedded AI | 👁️‍🗨️ Computer Vision</h3>
+<h3 align="center"> 🛠️ Hardware Design | 🔬 ML on SoC (System on Chip) | 🧠 Embedded AI | 👁️‍🗨️ Computer Vision | 👨🏻‍💻 Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -27,6 +27,8 @@
   
 
 <p align="left">
+
+   <img src="[https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator](https://github.com/MagdyMGZ/MagdyMGZ/raw/main/QuestaSim.png)/" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
