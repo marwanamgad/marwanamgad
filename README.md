@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on Machine Learning acceleration on FPGAs and SoC platforms  
+- 🔭 Currently working on Machine Learning acceleration and Image Processing Applications on FPGAs and SoC platforms  
 - 🌱 Exploring Computer Vision applications on edge devices using SoC architectures  
 - 💻 Passionate about backend software development, designing scalable systems, and building microservices architectures using modern tools and frameworks  
 - 💡 Deeply interested in the intersection of Machine Learning, Deep Learning, and hardware acceleration for real-time inference  
