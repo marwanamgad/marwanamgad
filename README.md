@@ -27,7 +27,7 @@
   
 
 <p align="left">
-  <img src="/MagdyMGZ/MagdyMGZ/raw/main/QuestaSim.png" alt="questasim" width="40" height="40" style="max-width: 100%; height: auto; max-height: 35px;">
+  <img src="https://usoftly.ir/wp-content/uploads/2022/02/Mentor-Graphics-QuestaSim-2021.1-Win.png" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
