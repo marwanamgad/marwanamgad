@@ -80,13 +80,7 @@
 
 ---
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-bg=true&row=1" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
