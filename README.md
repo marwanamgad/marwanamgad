@@ -1,6 +1,6 @@
 <!-- README.md -->
 <h1 align="center">Hi 👋, I'm Marwan Abdelfattah</h1>
-<h3 align="center"> FPGA Design & Verification |🛠️ Hardware Design | 🔬 ML on SoC (System on Chip) | ASIC | 🧠 Embedded AI | 👁️‍🗨️ Computer Vision | 👨🏻‍💻 Software Development</h3>
+<h3 align="center"> FPGA Design & Verification |🛠️ Hardware Design | MEMs IMU Sensors Development| 🔬 ML on SoC (System on Chip) | ASIC | 🧠 Embedded AI | 👁️‍🗨️ Computer Vision | 👨🏻‍💻 Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,15 +9,12 @@
 ---
 
 ## 🧑‍💻 About Me
-
-### 🧑‍💻 About Me
 - 🔭 Currently working on Machine Learning acceleration and Image Processing Applications on FPGAs and SoC platforms  
 - 🌱 Exploring Computer Vision applications on edge devices using SoC architectures  
 - 💻 Passionate about backend software development, designing scalable systems, and building microservices architectures using modern tools and frameworks  
 - 💡 Deeply interested in the intersection of Machine Learning, Deep Learning, and hardware acceleration for real-time inference  
 - 🧠 I thrive at the crossroads of hardware/software co-design and efficient AI deployment on resource-constrained systems  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/marwanabdelfattah) or [Email](mailto:marwanabdelfattah25@gmail.com)
-- 🌐 [My Portfolio](https://marwanabdelfattah.com)
 ---
 
 ## 🛠️ Tools & Languages
@@ -65,21 +62,6 @@
           
   
 </p>
-
----
-
-## 📦 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| `fpga-ml-inference` | Custom ML inference engine synthesized on FPGA using Vivado HLS | HLS, Vivado, Python |
-| `pynq-face-detection` | Real-time face detection pipeline using CNN on PYNQ board | Python, OpenCV, PYNQ |
-| `rtl-object-tracker` | End-to-end object tracker implemented in VHDL & tested on ModelSim | VHDL, ModelSim, Quartus |
-| `tinyml-on-rpi` | Optimized ML models (image classification & detection) on Raspberry Pi | PyTorch, TFLite, RPi |
-| `cv-pipeline-accelerator` | Accelerated image preprocessing and filtering on FPGA | VHDL, OpenCV, Vivado |
-
----
-
 
 
 ## 🔗 Connect With Me
