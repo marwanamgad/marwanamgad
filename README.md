@@ -1,6 +1,6 @@
 <!-- README.md -->
-<h1 align="center">Hi 👋, I'm Marwan Amgad</h1>
-<h3 align="center"> 🛠️ Hardware Design | 🔬 ML on SoC (System on Chip) | 🧠 Embedded AI | 👁️‍🗨️ Computer Vision | 👨🏻‍💻 Software Development</h3>
+<h1 align="center">Hi 👋, I'm Marwan Abdelfattah</h1>
+<h3 align="center"> FPGA Design & Verification |🛠️ Hardware Design | 🔬 ML on SoC (System on Chip) | ASIC | 🧠 Embedded AI | 👁️‍🗨️ Computer Vision | 👨🏻‍💻 Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
