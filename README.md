@@ -23,32 +23,25 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+Verilog | SystemVerilog | VHDL | Python | C | C++
 
-<p>
-  Verilog
-  <img src="YOUR_VERILOG_ICON_URL" width="25" align="center" />
-  &nbsp;&nbsp;&nbsp;
+### 🔧 FPGA & ASIC Tools
+AMD Vivado | Intel Quartus | QuestaSim | Questa Lint | Questa CDC/RDC
 
-  SystemVerilog
-  <img src="YOUR_SYSTEMVERILOG_ICON_URL" width="25" align="center" />
-  &nbsp;&nbsp;&nbsp;
+### 🧪 Design & Verification
+RTL Design | UVM | SVA | Constrained-Random Verification | Functional Coverage | CDC/RDC | STA | Formal Verification
 
-  VHDL
-  <img src="YOUR_VHDL_ICON_URL" width="25" align="center" />
-  &nbsp;&nbsp;&nbsp;
+### 🔌 Protocols & Interfaces
+AXI | APB | SPI | I²C | UART
 
-  Python
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" align="center" />
-  &nbsp;&nbsp;&nbsp;
+### ⚙️ Hardware Platforms
+AMD (Xilinx) FPGA | Intel FPGA | STM32 | RISC-V | ARM
 
-  C
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" align="center" />
-  &nbsp;&nbsp;&nbsp;
+### 🧰 Development Tools
+Git | GitHub | Linux | VS Code | Jupyter
 
-  C++
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" align="center" />
-</p>
-
+### 🐍 Automation & Testing
+Python | cocotb | Tcl | Bash
 
 ## 🔗 Connect With Me
 
