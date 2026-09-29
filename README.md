@@ -42,7 +42,7 @@ Python | cocotb | Tcl | Bash
 ## Connect With Me
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/marwanabdelfattah/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/></a><img src="https://skillicons.dev/icons?i=gmail" width="0" height="0" alt=""/>&nbsp;&nbsp;<a href="mailto:marwanabdelfattah25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48"/></a>
+  <a href="https://www.linkedin.com/in/marwanabdelfattah/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/></a><img src="https://skillicons.dev/icons?i=gmail" width="0" height="0" alt=""/>&nbsp;&nbsp;<a href="mailto:marwanabdelfattah25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48"/></a>
 </p>
   
 
