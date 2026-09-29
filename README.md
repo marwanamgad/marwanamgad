@@ -46,10 +46,18 @@ Python | cocotb | Tcl | Bash
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/marwanabdelfattah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img align="center"
+       src="https://cdn.simpleicons.org/linkedin/0A66C2"
+       alt="LinkedIn"
+       width="30"
+       height="30"/>
+</a>
+
 <a href="mailto:marwanabdelfattah25@gmail.com">
   <img align="center"
-       src="https://img.icons8.com/color/48/gmail-new.png"
+       src="https://cdn.simpleicons.org/gmail"
        alt="Gmail"
-       width="30"/>
+       width="30"
+       height="30"/>
 </a>
