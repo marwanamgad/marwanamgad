@@ -47,5 +47,9 @@ Python | cocotb | Tcl | Bash
 
 <p align="left">
   <a href="https://linkedin.com/in/marwanabdelfattah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" /></a>
-  <a href="mailto:marwanabdelfattah25@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/></a>
-</p>
+<a href="mailto:marwanabdelfattah25@gmail.com">
+  <img align="center"
+       src="https://img.icons8.com/color/48/gmail-new.png"
+       alt="Gmail"
+       width="30"/>
+</a>
